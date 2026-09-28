@@ -80,8 +80,17 @@ function App() {
       <main>
         <section id="home" className="hero section">
           <div className="hero-copy">
-            <div className="eyebrow"><span className="pulse"></span> Available for freelance work</div>
-            <h1>Building <span>modern web experiences</span> that solve real problems.</h1>
+            <div className="eyebrow">
+               <span className="pulse"></span>
+               <span>Open to Software Engineering Opportunities</span>
+            </div>
+
+            <h1>
+              Building modern web experiences
+             <br />
+             that solve real problems.
+            </h1>
+            
             <p className="hero-text">
               I'm <strong>Ashish Kumar </strong>, a Full Stack Developer focused on
               React.js, Node.js, Java, Spring Boot, REST APIs and database-driven applications.
