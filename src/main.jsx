@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, Phone, MapPin, ArrowUpRight, Code2, Database, S
 import "./styles.css";
 
 const profile = {
-  name: "Ashish Kumar Jha",
+  name: "Ashish Kumar ",
   role: "Full Stack Developer",
   location: "Mumbai, Maharashtra",
   email: "ashishjha5380@gmail.com",
@@ -104,7 +104,7 @@ function App() {
             <div className="code-card">
               <div className="code-top"><span></span><span></span><span></span><small>developer.js</small></div>
               <pre>{`const developer = {
-  name: "Ashish Kumar Jha",
+  name: "Ashish Kumar",
   role: "Full Stack Developer",
 
   frontend: [
