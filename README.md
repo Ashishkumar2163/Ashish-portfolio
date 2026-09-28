@@ -1,6 +1,6 @@
 # Ashish Kumar — Portfolio
 
-A responsive React + Vite portfolio for Ashish Kumar Jha, Full Stack Developer.
+A responsive React + Vite portfolio for Ashish Kumar, Full Stack Developer.
 
 ## Tech
 - React.js

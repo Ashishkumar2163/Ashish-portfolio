@@ -83,7 +83,7 @@ function App() {
             <div className="eyebrow"><span className="pulse"></span> Available for freelance work</div>
             <h1>Building <span>modern web experiences</span> that solve real problems.</h1>
             <p className="hero-text">
-              I'm <strong>Ashish Kumar Jha</strong>, a Full Stack Developer focused on
+              I'm <strong>Ashish Kumar </strong>, a Full Stack Developer focused on
               React.js, Node.js, Java, Spring Boot, REST APIs and database-driven applications.
             </p>
             <div className="hero-actions">
@@ -248,7 +248,7 @@ function App() {
       </main>
 
       <footer>
-        <span>© {new Date().getFullYear()} Ashish Kumar Jha</span>
+        <span>© {new Date().getFullYear()} Ashish Kumar</span>
         <span>Built with React.js</span>
       </footer>
     </div>
